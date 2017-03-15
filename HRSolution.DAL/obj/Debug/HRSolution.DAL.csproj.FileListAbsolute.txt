@@ -1,0 +1,17 @@
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2013\Projects\WpfApplication1\HRSolution.DAL\bin\Debug\HR.mdf
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2013\Projects\WpfApplication1\HRSolution.DAL\bin\Debug\HR_log.ldf
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2013\Projects\WpfApplication1\HRSolution.DAL\bin\Debug\HRSolution.DAL.dll.config
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2013\Projects\WpfApplication1\HRSolution.DAL\bin\Debug\HRSolution.DAL.dll
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2013\Projects\WpfApplication1\HRSolution.DAL\bin\Debug\HRSolution.DAL.pdb
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2013\Projects\WpfApplication1\HRSolution.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2013\Projects\WpfApplication1\HRSolution.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2013\Projects\WpfApplication1\HRSolution.DAL\obj\Debug\HRSolution.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2013\Projects\WpfApplication1\HRSolution.DAL\obj\Debug\HRSolution.DAL.dll
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2013\Projects\WpfApplication1\HRSolution.DAL\obj\Debug\HRSolution.DAL.pdb
+D:\Visual Studio 2013\Projects\WpfApplication1\HRSolution.DAL\bin\Debug\HRSolution.DAL.dll.config
+D:\Visual Studio 2013\Projects\WpfApplication1\HRSolution.DAL\bin\Debug\HRSolution.DAL.dll
+D:\Visual Studio 2013\Projects\WpfApplication1\HRSolution.DAL\bin\Debug\HRSolution.DAL.pdb
+D:\Visual Studio 2013\Projects\WpfApplication1\HRSolution.DAL\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2013\Projects\WpfApplication1\HRSolution.DAL\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2013\Projects\WpfApplication1\HRSolution.DAL\obj\Debug\HRSolution.DAL.dll
+D:\Visual Studio 2013\Projects\WpfApplication1\HRSolution.DAL\obj\Debug\HRSolution.DAL.pdb

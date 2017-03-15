@@ -1,0 +1,20 @@
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2013\Projects\WpfApplication1\HRSolution.BL\obj\Debug\HRSolution.BL.csprojResolveAssemblyReference.cache
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2013\Projects\WpfApplication1\HRSolution.BL\bin\Debug\HR.mdf
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2013\Projects\WpfApplication1\HRSolution.BL\bin\Debug\HR_log.ldf
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2013\Projects\WpfApplication1\HRSolution.BL\bin\Debug\HRSolution.BL.dll
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2013\Projects\WpfApplication1\HRSolution.BL\bin\Debug\HRSolution.BL.pdb
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2013\Projects\WpfApplication1\HRSolution.BL\bin\Debug\HRSolution.DAL.dll
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2013\Projects\WpfApplication1\HRSolution.BL\bin\Debug\EntityFramework.dll
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2013\Projects\WpfApplication1\HRSolution.BL\bin\Debug\HRSolution.DAL.pdb
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2013\Projects\WpfApplication1\HRSolution.BL\bin\Debug\EntityFramework.xml
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2013\Projects\WpfApplication1\HRSolution.BL\obj\Debug\HRSolution.BL.dll
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2013\Projects\WpfApplication1\HRSolution.BL\obj\Debug\HRSolution.BL.pdb
+D:\Visual Studio 2013\Projects\WpfApplication1\HRSolution.BL\bin\Debug\HRSolution.BL.dll
+D:\Visual Studio 2013\Projects\WpfApplication1\HRSolution.BL\bin\Debug\HRSolution.BL.pdb
+D:\Visual Studio 2013\Projects\WpfApplication1\HRSolution.BL\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2013\Projects\WpfApplication1\HRSolution.BL\bin\Debug\HRSolution.DAL.dll
+D:\Visual Studio 2013\Projects\WpfApplication1\HRSolution.BL\bin\Debug\HRSolution.DAL.pdb
+D:\Visual Studio 2013\Projects\WpfApplication1\HRSolution.BL\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2013\Projects\WpfApplication1\HRSolution.BL\obj\Debug\HRSolution.BL.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\WpfApplication1\HRSolution.BL\obj\Debug\HRSolution.BL.dll
+D:\Visual Studio 2013\Projects\WpfApplication1\HRSolution.BL\obj\Debug\HRSolution.BL.pdb
